@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/menuLogOut"
+            android:icon="@drawable/baseline_logout_24"
+            android:title="Cerrar sesion"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/app_bar_switch"
+            android:title="Disponible"
+            app:actionLayout="@layout/switch_item"
+            app:showAsAction="ifRoom"
+            android:checked="false"/>
+
+        <item
+            android:id="@+id/listaDisponibles"
+            android:title="Lista Disponibles"
+            app:showAsAction="never" />
+    </group>
+</menu>

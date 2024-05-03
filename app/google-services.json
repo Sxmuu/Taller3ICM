@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "263325829464",
+    "firebase_url": "https://fir-prueba-7d1af-default-rtdb.firebaseio.com",
+    "project_id": "fir-prueba-7d1af",
+    "storage_bucket": "fir-prueba-7d1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263325829464:android:786ee6697675172b0e7d2d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxPRd3IQZL5TqnDxRRhxeGbh84AYrFx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263325829464:android:3e822289a1bcd22a0e7d2d",
+        "android_client_info": {
+          "package_name": "com.example.taller_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxPRd3IQZL5TqnDxRRhxeGbh84AYrFx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
